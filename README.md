@@ -1,6 +1,6 @@
 # big-event-front
 
-This template should help get you started developing with Vue 3 in Vite.
+使用技術：Html,Css,JavaScript,Vue,Axios,Vue-Router,Pinia,Element-UI
 
 ## Recommended IDE Setup
 
